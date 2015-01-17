@@ -1,4 +1,4 @@
-nojs
-====
+no.js
+=====
 
-There's no JS here. What did you expect?
+There's no JS.
